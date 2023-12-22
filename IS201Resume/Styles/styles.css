@@ -1,0 +1,32 @@
+body{
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+font-style: normal;
+font-weight: normal;
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+.resumeli {
+    font-weight: bold;
+}
+ol {
+    font-weight: normal;
+    font-style: normal;
+}
+.otherli {
+    font-weight: normal;
+    font-style: normal;
+}
+.schoolname{ 
+    font-style: italic;
+}

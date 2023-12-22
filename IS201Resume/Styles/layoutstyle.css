@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(189, 189, 125);
+
+}
+.common{
+    position: absolute;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 20px;
+    border-bottom: solid 1px black;
+}
+.mainbody{
+    top: 34px;
+    left: 114px;
+    right: 110px;
+    bottom: 5px;
+
+}
+.leftmenu{
+    top: 30px;
+    left: 5px;
+    width: 100px;
+    height: 2000px;
+    z-index: 1;
+    border-right: solid 1px #555555;
+    
+}
